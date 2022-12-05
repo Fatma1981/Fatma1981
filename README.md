@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi Everbody 👋
 
-<!--
-**Fatma1981/Fatma1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I've been  training  about Frontend Developing  since 6 months.  As a good industrial engineer and eager to learn, I believe that I will be an excellent fronted developer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
